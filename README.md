@@ -10,4 +10,4 @@ Bu proje, **Jetpack Compose** kullanılarak geliştirilmiş basit bir Android he
 - Responsive ve sade kullanıcı arayüzü
 
 ## 📦 APK İndir
-Son sürüm APK dosyasını aşağıdaki GitHub “Releases” kısmından indirebilirsiniz:
+Son sürüm APK dosyasını Releases kısmından indirebilirsiniz...
